@@ -1,1 +1,0 @@
-# Sphere-with-Prcessing-and-QuickSort
